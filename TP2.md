@@ -60,7 +60,7 @@ Exercice 7
 
 \2.
 
-```
+```BASH
 for i in "${array[@]}"; do
     #Remove padding zeroes, if any
     i=$(( $i ))
